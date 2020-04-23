@@ -52,6 +52,7 @@ namespace Công_nghệ_phần_mềm_5
                 textBox1.Text = "";
                 textBox2.Enabled = false;
                 textBox2.Text = "";
+                button1.Enabled = false;
             }
         }
     }

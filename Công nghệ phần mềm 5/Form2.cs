@@ -30,6 +30,8 @@ namespace Công_nghệ_phần_mềm_5
             textBox3.Text = "";
             textBox4.Text = "";
             textBox5.Text = "";
+            button2.Enabled = false;
+            button3.Enabled = false;
         }
         public void themnv()
         {
@@ -78,6 +80,8 @@ namespace Công_nghệ_phần_mềm_5
             textBox3.Text = "";
             textBox4.Text = "";
             textBox5.Text = "";
+            button1.Enabled = false;
+            button2.Enabled = false;
         }
 
         public void suavn()
@@ -100,6 +104,8 @@ namespace Công_nghệ_phần_mềm_5
             textBox3.Text = "";
             textBox4.Text = "";
             textBox5.Text = "";
+            button1.Enabled = false;
+            button3.Enabled = false;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -117,18 +123,34 @@ namespace Công_nghệ_phần_mềm_5
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if(them==1)
+            try
             {
-                themnv();
+                if (them == 1)
+                {
+                    themnv();
+                   
+                }
+                if (sua == 1)
+                {
+                    suavn();
+                }
+                if (xoa == 1)
+                {
+                    xoanv();
+                }
+                xoa = 0;
+                sua = 0;
+                them = 0;
             }
-            if(sua==1)
+            catch (Exception ex)
             {
-                suavn();
-            }   
-            if(xoa==1)
-            {
-                xoanv();
+
+                MessageBox.Show(ex.Message);
             }
+            button1.Enabled = true;
+            button2.Enabled = true;
+            button3.Enabled = true;
+
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
