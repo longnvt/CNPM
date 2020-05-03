@@ -13,6 +13,8 @@ namespace Công_nghệ_phần_mềm_5
     public partial class Form1 : Form
     {
         int dem = 0;
+       public static string a = "QuanLy";
+      public static  string b = "123456";
         public Form1()
         {
             InitializeComponent();
@@ -35,7 +37,7 @@ namespace Công_nghệ_phần_mềm_5
         private void button1_Click(object sender, EventArgs e)
         {
             Form2 fm = new Form2();
-            if (textBox1.Text == "QuanLy" && textBox2.Text == "123456")
+            if (textBox1.Text == a && textBox2.Text == b)
             {
                 MessageBox.Show("Đăng nhập thành công", "Thông báo");
                 fm.ShowDialog();
@@ -52,8 +54,13 @@ namespace Công_nghệ_phần_mềm_5
                 textBox1.Text = "";
                 textBox2.Enabled = false;
                 textBox2.Text = "";
-                button1.Enabled = false;
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form7 f7 = new Form7();
+            f7.ShowDialog();
         }
     }
 }

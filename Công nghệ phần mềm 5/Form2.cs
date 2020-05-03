@@ -30,8 +30,6 @@ namespace Công_nghệ_phần_mềm_5
             textBox3.Text = "";
             textBox4.Text = "";
             textBox5.Text = "";
-            button2.Enabled = false;
-            button3.Enabled = false;
         }
         public void themnv()
         {
@@ -60,6 +58,7 @@ namespace Công_nghệ_phần_mềm_5
         private void Form2_Load(object sender, EventArgs e)
         {
             disp_data();
+            this.Size = new Size(1269, 750);
         }
         public void xoanv()
         {
@@ -80,8 +79,6 @@ namespace Công_nghệ_phần_mềm_5
             textBox3.Text = "";
             textBox4.Text = "";
             textBox5.Text = "";
-            button1.Enabled = false;
-            button2.Enabled = false;
         }
 
         public void suavn()
@@ -104,8 +101,6 @@ namespace Công_nghệ_phần_mềm_5
             textBox3.Text = "";
             textBox4.Text = "";
             textBox5.Text = "";
-            button1.Enabled = false;
-            button3.Enabled = false;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -123,34 +118,18 @@ namespace Công_nghệ_phần_mềm_5
 
         private void button5_Click(object sender, EventArgs e)
         {
-            try
+            if(them==1)
             {
-                if (them == 1)
-                {
-                    themnv();
-                   
-                }
-                if (sua == 1)
-                {
-                    suavn();
-                }
-                if (xoa == 1)
-                {
-                    xoanv();
-                }
-                xoa = 0;
-                sua = 0;
-                them = 0;
+                themnv();
             }
-            catch (Exception ex)
+            if(sua==1)
             {
-
-                MessageBox.Show(ex.Message);
+                suavn();
+            }   
+            if(xoa==1)
+            {
+                xoanv();
             }
-            button1.Enabled = true;
-            button2.Enabled = true;
-            button3.Enabled = true;
-
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -164,6 +143,36 @@ namespace Công_nghệ_phần_mềm_5
                 textBox4.Text = (dataGridView1.Rows[index].Cells[3].Value.ToString());
                 textBox5.Text = (dataGridView1.Rows[index].Cells[4].Value.ToString());
             }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            this.Size = new Size(1564, 750);
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form3 f3 = new Form3();
+            f3.ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form4 f4 = new Form4();
+            f4.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Form5 f5 = new Form5();
+            f5.ShowDialog();
+
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Form6 f6 = new Form6();
+            f6.ShowDialog();
         }
     }
 }

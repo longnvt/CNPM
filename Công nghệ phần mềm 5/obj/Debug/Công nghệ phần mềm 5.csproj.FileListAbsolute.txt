@@ -9,14 +9,30 @@ C:\Users\LongNVT\source\repos\Công nghệ phần mềm 5\Công nghệ phần m�
 C:\Users\LongNVT\source\repos\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.exe
 C:\Users\LongNVT\source\repos\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.pdb
 C:\Users\LongNVT\source\repos\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form2.resources
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.exe.config
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.exe
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.pdb
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csprojAssemblyReference.cache
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form1.resources
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form2.resources
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Properties.Resources.resources
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csproj.GenerateResource.cache
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csproj.CoreCompileInputs.cache
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.exe
-C:\Users\LongNVT\Desktop\Cong nghe phan mem\CNPM\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.pdb
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.exe.config
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.exe
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.pdb
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csprojAssemblyReference.cache
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form1.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form2.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Properties.Resources.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csproj.GenerateResource.cache
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csproj.CoreCompileInputs.cache
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.exe
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.pdb
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.exe.config
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.exe
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\bin\Debug\Công nghệ phần mềm 5.pdb
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csprojAssemblyReference.cache
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form1.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form2.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form3.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form4.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form5.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form6.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Properties.Resources.resources
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csproj.GenerateResource.cache
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.csproj.CoreCompileInputs.cache
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.exe
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công nghệ phần mềm 5.pdb
+C:\Users\LongNVT\Desktop\Công nghệ phần mềm 5 - Copy\Công nghệ phần mềm 5\obj\Debug\Công_nghệ_phần_mềm_5.Form7.resources
